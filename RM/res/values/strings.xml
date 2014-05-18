@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">1RM Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">1RM Calculator</string>
+    <string name="weightHeader">Weight</string>
+    <string name="repHeader">Reps</string>
+    <string name="rmHeader">1 Rep Max</string>
+    <string name="calculate">Calculate</string>
+    <string name="instructions1">Instructions: Fill in any two values and leave the third blank to find the following:</string>
+    <string name="instructions2">(1) 1RM</string>
+    <string name="instructions3">(2) X RM at a certain weight based off a 1RM</string>
+    <string name="instructions4">(3) Max weight at a certain rep scheme</string>
+
+</resources>
